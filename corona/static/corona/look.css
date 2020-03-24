@@ -1,0 +1,10 @@
+#territory {
+    font-weight: 700;
+    color: #222;
+    font-size: 33px;
+}
+span {
+    text-align: center;
+    position: relative;
+    left: 30px;
+}

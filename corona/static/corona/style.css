@@ -1,0 +1,19 @@
+#counter {
+    text-align: center;
+    position:relative;
+    right:10px;
+    top:120px;
+}
+h1 {
+    text-align: center
+}
+#main-count {
+    font-weight: 700;
+    color: #696969;
+    font-size: 54px;
+}
+#secondary-count {
+    font-weight: 700;
+    color: 	#222;
+    font-size: 54px;
+}
